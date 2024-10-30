@@ -1,0 +1,396 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Collection\n"
+"POT-Creation-Date: 2017-04-18 09:08+0200\n"
+"PO-Revision-Date: 2017-04-06 15:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: Steeve Lefebvre <steeve.lfbvr@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: collection.php:20
+msgid "Create and manage yourself your own collection by means of a simple generator of custom post types."
+msgstr ""
+
+#: collection.php:80
+msgid "Page"
+msgstr ""
+
+#: collection.php:81 plugin/admin/panel.php:52 plugin/admin/panel.php:145
+msgid "Settings"
+msgstr ""
+
+#: plugin/admin/form.php:20
+msgid "Settings saved"
+msgstr ""
+
+#: plugin/admin/form.php:31 plugin/admin/form.php:43
+msgid "About"
+msgstr ""
+
+#: plugin/admin/form.php:44
+msgid "By"
+msgstr ""
+
+#: plugin/admin/form.php:45
+msgid "More information"
+msgstr ""
+
+#: plugin/admin/form.php:45
+msgid "plugin page"
+msgstr ""
+
+#: plugin/admin/form.php:46
+msgid "Development for the web"
+msgstr ""
+
+#: plugin/admin/form.php:47
+msgid "Support"
+msgstr ""
+
+#: plugin/admin/form.php:48
+msgid "Ask your question"
+msgstr ""
+
+#: plugin/admin/form.php:57
+msgid "Your message has been sent !"
+msgstr ""
+
+#: plugin/admin/form.php:59
+msgid "Something went wrong, go back and try again !"
+msgstr ""
+
+#: plugin/admin/form.php:65
+msgid "Your name"
+msgstr ""
+
+#: plugin/admin/form.php:68
+msgid "Your Email Address"
+msgstr ""
+
+#: plugin/admin/form.php:71
+msgid "Formulate your support request or feature proposal here..."
+msgstr ""
+
+#: plugin/admin/form.php:74
+msgid "Send"
+msgstr ""
+
+#: plugin/admin/panel.php:39
+msgid "Beware, values have changed: do not forget to save your changes."
+msgstr ""
+
+#: plugin/admin/panel.php:49 plugin/admin/panel.php:92
+#: plugin/admin/panel.php:97
+msgid "Collections"
+msgstr ""
+
+#: plugin/admin/panel.php:50 plugin/admin/panel.php:107
+#: plugin/admin/panel.php:112
+msgid "Metabox"
+msgstr ""
+
+#: plugin/admin/panel.php:51 plugin/admin/panel.php:122
+msgid "Styles"
+msgstr ""
+
+#: plugin/admin/panel.php:127
+msgid "Body Class"
+msgstr ""
+
+#: plugin/admin/panel.php:135
+msgid "Code css"
+msgstr ""
+
+#: plugin/admin/panel.php:150
+msgid "Plugin name"
+msgstr ""
+
+#: plugin/admin/panel.php:158
+msgid "Capacity"
+msgstr ""
+
+#: plugin/admin/panel.php:166
+msgid "Supports"
+msgstr ""
+
+#: plugin/admin/panel.php:174
+msgid "Deregister post types"
+msgstr ""
+
+#: plugin/admin/panel.php:182
+msgid "Delete options"
+msgstr ""
+
+#: plugin/admin/panel.php:196
+msgid "Group"
+msgstr ""
+
+#: plugin/admin/panel.php:200
+msgid "Plugin Group"
+msgstr ""
+
+#: plugin/admin/panel.php:208
+msgid "Grouper"
+msgstr ""
+
+#: plugin/admin/panel.php:224 plugin/admin/panel.php:549
+msgid "Add metabox"
+msgstr ""
+
+#: plugin/admin/panel.php:236 plugin/admin/panel.php:536
+msgid "Add field"
+msgstr ""
+
+#: plugin/admin/panel.php:238 plugin/admin/panel.php:464
+msgid "Short text"
+msgstr ""
+
+#: plugin/admin/panel.php:239 plugin/admin/panel.php:465
+msgid "Long text"
+msgstr ""
+
+#: plugin/admin/panel.php:240 plugin/admin/panel.php:466
+msgid "Number"
+msgstr ""
+
+#: plugin/admin/panel.php:241 plugin/admin/panel.php:467
+msgid "Phone"
+msgstr ""
+
+#: plugin/admin/panel.php:242 plugin/admin/panel.php:468
+msgid "Color"
+msgstr ""
+
+#: plugin/admin/panel.php:243 plugin/admin/panel.php:469
+msgid "E-mail"
+msgstr ""
+
+#: plugin/admin/panel.php:244 plugin/admin/panel.php:470
+msgid "Url"
+msgstr ""
+
+#: plugin/admin/panel.php:245 plugin/admin/panel.php:471
+msgid "Date"
+msgstr ""
+
+#: plugin/admin/panel.php:246 plugin/admin/panel.php:472
+msgid "Month"
+msgstr ""
+
+#: plugin/admin/panel.php:247 plugin/admin/panel.php:473
+msgid "Week"
+msgstr ""
+
+#: plugin/admin/panel.php:248 plugin/admin/panel.php:474
+msgid "Hour"
+msgstr ""
+
+#: plugin/admin/panel.php:386
+msgid "This section concerns the configuration of the metabox."
+msgstr ""
+
+#: plugin/admin/panel.php:461
+msgid "Field"
+msgstr ""
+
+#: plugin/admin/panel.php:504
+msgid "Location"
+msgstr ""
+
+#: plugin/admin/panel.php:506
+msgid "Normal"
+msgstr ""
+
+#: plugin/admin/panel.php:507
+msgid "Side"
+msgstr ""
+
+#: plugin/admin/panel.php:508
+msgid "Advanced"
+msgstr ""
+
+#: plugin/admin/panel.php:520
+msgid "Priority"
+msgstr ""
+
+#: plugin/admin/panel.php:522
+msgid "Default"
+msgstr ""
+
+#: plugin/admin/panel.php:523
+msgid "Low"
+msgstr ""
+
+#: plugin/admin/panel.php:524
+msgid "High"
+msgstr ""
+
+#: plugin/admin/panel.php:525
+msgid "Core"
+msgstr ""
+
+#: plugin/admin/panel.php:528
+msgid "This metabox contains no field."
+msgstr ""
+
+#: plugin/admin/panel.php:538
+msgid "Remove metabox"
+msgstr ""
+
+#: plugin/admin/panel.php:544
+msgid "This collection contains no metabox."
+msgstr ""
+
+#: plugin/admin/panel.php:555
+msgid "You have not created any collection yet."
+msgstr ""
+
+#: plugin/admin/panel.php:566
+msgid "This section concerns the configuration of the css styles."
+msgstr ""
+
+#: plugin/admin/panel.php:567
+msgid "Collection adds to the body tag the"
+msgstr ""
+
+#: plugin/admin/panel.php:568
+msgid "If you use the shortcode field by field, be aware that they are embedded in"
+msgstr ""
+
+#: plugin/admin/panel.php:569
+msgid "If you use the shortcode table to display multiple fields, you will need to use"
+msgstr ""
+
+#: plugin/admin/panel.php:581
+msgid "Add collection class to body."
+msgstr ""
+
+#: plugin/admin/panel.php:589
+msgid "Add css for your collection here."
+msgstr ""
+
+#: plugin/admin/panel.php:597
+msgid "TThis part concerns the configuration of your collections."
+msgstr ""
+
+#: plugin/admin/panel.php:609 plugin/admin/panel.php:712
+msgid "Add collection"
+msgstr ""
+
+#: plugin/admin/panel.php:611 plugin/admin/panel.php:697
+msgid "name"
+msgstr ""
+
+#: plugin/admin/panel.php:612 plugin/admin/panel.php:698
+msgid "singular"
+msgstr ""
+
+#: plugin/admin/panel.php:613 plugin/admin/panel.php:699
+msgid "plural"
+msgstr ""
+
+#: plugin/admin/panel.php:614 plugin/admin/panel.php:700
+msgid "slug"
+msgstr ""
+
+#: plugin/admin/panel.php:617 plugin/admin/panel.php:702
+msgid "description"
+msgstr ""
+
+#: plugin/admin/panel.php:618
+msgid "Indicate here the information about this new collection."
+msgstr ""
+
+#: plugin/admin/panel.php:650 plugin/taxonomy.php:25
+msgid "Categories"
+msgstr ""
+
+#: plugin/admin/panel.php:651 plugin/admin/panel.php:653
+msgid "Enable category support."
+msgstr ""
+
+#: plugin/admin/panel.php:652 plugin/taxonomy.php:30
+msgid "Tags"
+msgstr ""
+
+#: plugin/admin/panel.php:695
+msgid "Add a collection"
+msgstr ""
+
+#: plugin/admin/panel.php:719
+msgid "This part deals with the general configuration of your collections."
+msgstr ""
+
+#: plugin/admin/panel.php:725
+msgid "Add a name to classify the collections here."
+msgstr ""
+
+#: plugin/admin/panel.php:731
+msgid "Add editing capabilities here. (beta)"
+msgstr ""
+
+#: plugin/admin/panel.php:737
+msgid "Add here the different supports for your articles by separating them with a comma ( , )."
+msgstr ""
+
+#: plugin/admin/panel.php:743
+msgid "Add here the different post types to deregister by separating them with a comma ( , )."
+msgstr ""
+
+#: plugin/admin/panel.php:755
+msgid "Delete plugin options when disabling."
+msgstr ""
+
+#: plugin/admin/panel.php:763
+msgid "This part concerns the configuration of the plugin group."
+msgstr ""
+
+#: plugin/admin/panel.php:769
+msgid "Specify here the group to attach"
+msgstr ""
+
+#: plugin/admin/panel.php:769 plugin/admin/panel.php:775
+msgid "Collection"
+msgstr ""
+
+#: plugin/admin/panel.php:770
+msgid "WARNING :: changing the value of this field amounts to modifying the name of the parent link in the WordPress admin menu !"
+msgstr ""
+
+#: plugin/admin/panel.php:771
+msgid "You can use this option to isolate this plugin or to add this plugin to an existing Grouper group."
+msgstr ""
+
+#: plugin/admin/panel.php:775
+msgid "is compatible with Grouper"
+msgstr ""
+
+#: plugin/admin/panel.php:777
+msgid "is installed but does not appear to be enabled"
+msgstr ""
+
+#: plugin/admin/panel.php:778
+msgid "you can activate"
+msgstr ""
+
+#: plugin/admin/panel.php:780
+msgid "more information here"
+msgstr ""
+
+#: plugin/taxonomy.php:24
+msgid "Category"
+msgstr ""
+
+#: plugin/taxonomy.php:29
+msgid "Tag"
+msgstr ""
